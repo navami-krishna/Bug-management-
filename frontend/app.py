@@ -21,6 +21,7 @@ module = st.sidebar.selectbox(
         "Fix Time Prediction",
         "Developer Recommendation",
         "Duplicate Detection"
+        "Explainable AI"
     ]
 )
 
