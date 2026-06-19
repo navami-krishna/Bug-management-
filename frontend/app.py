@@ -133,7 +133,7 @@ elif module == "Fix Time Prediction":
     if st.button("Predict Fix Time"):
 
         model = joblib.load(
-            "model/best_fix_time_model.pkl"
+            "model/fix_time_model.pkl"
         )
 
         tfidf = joblib.load(
