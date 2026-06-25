@@ -19,7 +19,7 @@ if st.session_state.show_home:
     st.markdown("""
     <style>
     .stApp {
-        background-color: #;
+        background-color: #2d5da1;
     }
     </style>
     """, unsafe_allow_html=True)
